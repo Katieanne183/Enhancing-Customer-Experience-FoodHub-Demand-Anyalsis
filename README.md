@@ -86,4 +86,7 @@ This project analyzes customer demand and operational efficiency for **FoodHub**
 - **Key Tools:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 
 ---
+## 📑 Credits
+Project completed as part of the **MIT Applied Data Science Program**.
+
 
