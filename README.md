@@ -87,5 +87,3 @@ This project analyzes customer demand and operational efficiency for **FoodHub**
 
 ---
 
-## 📂 Project Structure (Suggested)
-
