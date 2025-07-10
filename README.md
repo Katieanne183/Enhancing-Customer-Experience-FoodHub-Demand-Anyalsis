@@ -1,4 +1,4 @@
-# 🍽️ Enhancing Customer Experience: FoodHub Demand Analysis
+# 🍽️ FoodHub Demand Anyalsis
 
 **Author:** Katie Kennedy    
 **Date:** December 7, 2024  
